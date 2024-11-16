@@ -1,6 +1,6 @@
 module go_lang_rest_api
 
-go 1.18
+go 1.23.3
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
