@@ -33,3 +33,13 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/go_lang_rest_api.git
    cd go_lang_rest_api
+   go mod tidy
+2. **Set up environment variables**:   
+   MYSQL_DBNAME=your_database_name
+   MYSQL_USER=your_database_user
+   MYSQL_PASSWORD=your_database_password
+   MYSQL_HOST=your_database_host
+3. **Run the project**:
+   ```bash   
+   go run main.go
+
