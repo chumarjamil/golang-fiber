@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/go_lang_rest_api.git
+   git clone https://github.com/chumarjamil/golang-fiber
    cd go_lang_rest_api
    go mod tidy
 2. **Set up environment variables**:   
