@@ -34,12 +34,13 @@ Ensure you have the following installed:
    git clone https://github.com/chumarjamil/golang-fiber
    cd go_lang_rest_api
    go mod tidy
-2. **Set up environment variables**:   
+2. **Set up environment variables**:
+   ```bash   
    MYSQL_DBNAME=your_database_name
    MYSQL_USER=your_database_user
    MYSQL_PASSWORD=your_database_password
    MYSQL_HOST=your_database_host
-3. **Run the project**:
+4. **Run the project**:
    ```bash   
    go run main.go
 
